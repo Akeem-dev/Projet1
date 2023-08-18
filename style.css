@@ -1,0 +1,139 @@
+/*Generale*/
+*
+{
+    font-family:sans-serif;
+}
+
+a
+{
+   color: rgb(86, 88, 223);
+   text-decoration: none;
+   font-size: 15px;
+}
+ul
+{
+    list-style: none;
+}
+
+
+/*header*/
+
+/*Main-1*/
+#main-1
+{
+    height: 500px;
+    background:url(img/4PHONE.jpg) center;
+    background-size: cover;
+    
+}
+#main-1 .warpper
+{
+    color: aliceblue;
+    text-align: center;
+    padding: 50px 0px ;
+   
+}
+#main-1 .warpper h1
+{
+    font-size: 35PX;
+    font-weight: bold;
+
+}
+
+/*Main-2*/
+#main-2
+ {
+    height: 500px;
+    background: url(img/hero_iphone14_yellow__eun20sn4imi6_large_2x.jpg) center;
+    background-size: cover;
+}
+#main-2 .warpper {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 50px 0px;
+
+}
+/*Main-3*/
+#main-3 {
+    height: 500px;
+    background: url(img/hero_macbook_air_15_announce__fz5mtxnl9l6q_large_2x.jpg) center;
+    background-size: cover;
+}
+
+#main-3 .warpper {
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 50px 0px;
+
+}
+/*Main-4*/
+#main-4 .warpper 
+{
+
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 50px 0px;
+   
+    
+   
+}
+#main-4 .warpper #img
+{
+    
+    float: left;
+    height: 500PX;
+    width: 650PX;
+    margin: 5PX;
+}
+
+#main-4 .warpper .warpper-1
+{
+    
+ background: url(img/promo_ipad__fioegapg12qi_large_2x.jpg) center;
+background-size: cover;
+}
+#main-4 .warpper .warpper-2 {
+  
+    background: url(img/promo_mac_studio_announce__do7xnc8z5mgm_large_2x.jpg) center;
+    background-size: cover;
+}
+
+/*Main-5*/
+#main-5 .warpper {
+
+    color: rgb(255, 248, 248);
+    text-align: center;
+   
+
+}
+
+#main-5 .warpper #img {
+        
+        float: left;
+        height: 500PX;
+        width: 650PX;
+        margin: 5PX;
+}
+
+#main-5 .warpper .warpper-1 {
+
+    background: url(img/promo_mbp__ek7p477bkp6q_large_2x.jpg) center;
+    background-size: cover;
+}
+
+#main-5 .warpper .warpper-2 {
+
+    background: url(img/promo_ipadpro__ch217v9v7no2_large_2x.jpg) center;
+    background-size: cover;
+}
+
+/*Main-6*/
+#main-6
+{
+    height: 300px;
+    width: 100px;
+}
+#main-6 .list
+{
+ 
+}
