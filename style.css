@@ -22,8 +22,9 @@ ul
 #main-1
 {
     height: 500px;
-    background:url(img/4PHONE.jpg) center;
+    background:url(img/4PHONE.jpg) center ;
     background-size: cover;
+    background-repeat: no-repeat;
     
 }
 #main-1 .warpper
@@ -128,12 +129,29 @@ background-size: cover;
 }
 
 /*Main-6*/
+/*Main-6*/
 #main-6
 {
-    height: 300px;
-    width: 100px;
+
+    padding-top: 50px;
+    margin: 100px;
+}
+#main-6 #main-1-1
+{
+   
+   padding: 100px 50px;
+   display: flex;
+
 }
 #main-6 .list
 {
+ height: 70px;
+ width: auto; 
+ display: inline-block;
+ padding: 50px;
  
+}
+#main-6 .list ul li a
+{
+    color: black;
 }
